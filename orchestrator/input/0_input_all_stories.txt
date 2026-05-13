@@ -30,7 +30,7 @@ numbering,keyword1,keyword2,keyword3,story_name,status_story,words,status_story_
 29,magic puppy,rainbow collar,friendship bone,Puppy_s_Rainbow_Friendship_Bone,X,399,X,X,132,X,X,O,X
 30,cozy hedgehog,warm blanket,autumn leaves,Hedgehog_s_Cozy_Leaf_Nest,X,357,X,X,122,X,X,O,X
 31,little pirate,wooden ship,glowing island,Pirate_s_Glowing_Island_Quest,X,372,X,X,131,X,X,O,X
-32,kind butterfly,flower meadow,pollen party,Butterfly_s_Flower_Meadow_Party,X,383,X,X,123,X,X,O,O
+32,kind butterfly,flower meadow,pollen party,Butterfly_s_Flower_Meadow_Party,X,383,X,X,123,X,X,O,X
 33,brave beaver,wooden dam,rushing river,Beaver_s_Big_River_Dam,X,391,X,X,120,X,X,O,O
 34,silly octopus,eight arms,ocean circus,Octopus_s_Silly_Ocean_Circus,X,354,X,X,114,X,X,O,O
 35,tiny mouse,cheese castle,quiet adventure,Mouse_s_Cheesy_Castle_Quest,X,372,X,X,120,X,X,O,O
